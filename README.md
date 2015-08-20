@@ -1,2 +1,2 @@
-# Esri-RPC
-Python script to do routine maintenance to an Esri Enterprise Geodatabase
+# Esri-scripts
+Python scripts to do routine maintenance to an Esri Enterprise Geodatabase
