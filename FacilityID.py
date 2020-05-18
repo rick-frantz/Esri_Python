@@ -32,7 +32,7 @@ communication = "Ready to start!"
 
 print "entering try"
 try:
-	mapDoc = r'\\vm-nt-gisdata1\MXDs\Cityworks.mxd'
+	mapDoc = r'\\full path to mapdoc.mxd'
 	mxd = arcpy.mapping.MapDocument(mapDoc)
 	lyrs = arcpy.mapping.ListLayers(mxd)
 	for lyr in lyrs:
